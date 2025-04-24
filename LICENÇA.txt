@@ -1,0 +1,18 @@
+
+LICENÇA
+
+
+📬 Contato
+Agnaldo Roberto
+🔗 https://github.com/AgnaldoSts/automacao-python-rpa-ia
+📧 agnaldo@email.com (exemplo)
+🔗 LinkedIn: 
+https://www.linkedin.com/feed/update/urn:li:activity:7320889112163442688/
+---
+
+### ✅ O que fazer agora:
+1. Crie o arquivo `LICENSE` com o conteúdo da licença.
+2. Atualize o arquivo `README.md` com o texto acima.
+3. Faça o upload dos arquivos do seu projeto como explicamos antes.
+
+Se quiser, posso até gerar os arquivos `.md` e `.txt` prontos pra você subir! Deseja isso?
